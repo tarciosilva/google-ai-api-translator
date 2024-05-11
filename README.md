@@ -1,5 +1,4 @@
 # google-ai-api-translator
-# Translate App
 
 ![Translator Logo](./assets/img/translator-log.png)
 
