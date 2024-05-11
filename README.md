@@ -15,6 +15,7 @@ O **Translate App** é uma aplicação web simples que permite traduzir texto pa
 - HTML5
 - CSS3 (Bootstrap)
 - JavaScript (ES6)
+- Google Gemini
 
 ## Como Usar
 
