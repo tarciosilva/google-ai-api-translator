@@ -1,9 +1,11 @@
-import recognition from "./audioRecognition.js";
+import recognition  from "./audioRecognition.js";
+import textTranscripter from "./textTranscription.js";
 
 const btnLang = document.getElementById("btn-lang");
 const links = document.querySelectorAll(".dropdown-item");
 const textArea = document.getElementById("text-area");
 const recordButton = document.getElementById("record-button");
+const trascripButton = document.getElementById("trascrip-button");
 let selectedLanguage = "";
 let runnung = false;
 
@@ -26,6 +28,11 @@ recordButton.addEventListener("click", (event) => {
     textArea.value = "";
     recognition.start();
   }
+});
+
+trascripButton.addEventListener("click", (event) => {
+    event.preventDefault();
+    textTranscripter();
 });
 
 export { selectedLanguage, textArea };
