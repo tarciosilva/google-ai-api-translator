@@ -19,8 +19,12 @@ O **Translate App** é uma aplicação web simples que permite traduzir texto pa
 ## Como Usar
 
 1. Clone este repositório.
-2. Abra o arquivo `index.html` em um navegador da web.
-3. Comece a traduzir!
+2. abra o termina na pasta cloanda
+3. digite o comando npm install
+4. Abra o arquivo `index.html` em um navegador da web.
+5. Comece a traduzir!
+
+obs. caso não consiga rodar este projeto em sua máquina, acesse: https://google-ai-api-translator.vercel.app/
 
 ## Contribuição
 
