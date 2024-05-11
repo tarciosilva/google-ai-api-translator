@@ -25,8 +25,8 @@ O **Translate App** é uma aplicação web simples que permite traduzir texto pa
 5. Abra o arquivo `index.html` em um navegador da web.
 6. Comece a traduzir!
 
-obs. caso não consiga rodar este projeto em sua máquina, acesse: https://google-ai-api-translator.vercel.app/
-
+obsI. caso não consiga rodar este projeto em sua máquina, acesse: https://google-ai-api-translator.vercel.app/
+obsII. este projeto não é compatível com o navegador mozilla em todas suas versões.
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests.
